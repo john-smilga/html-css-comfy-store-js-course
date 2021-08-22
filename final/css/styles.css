@@ -366,6 +366,7 @@ Hero
 .hero-container {
   width: var(--fluid-width);
   max-width: var(--max-width);
+  margin-bottom: -6rem;
 }
 /* add to globals */
 .text-slanted {
